@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce71ad9a-1aeb-4895-8cf6-8a072b738e73" name="Changes" comment="Added om 031024" />
+    <list default="true" id="ce71ad9a-1aeb-4895-8cf6-8a072b738e73" name="Changes" comment="Added om 031024">
+      <change afterPath="$PROJECT_DIR$/12082024/test_Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14082024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14082024/test_Lab011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12082024/test_Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/12082024/test_Lab009.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -54,79 +65,24 @@
     &quot;Python tests.Python tests for test_Lab007.test_open_vwlogin.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_Lab007_p.test_mini_project_1.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_Lab008.test_mini_project_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab009.test_mini_project_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab009.test_mini_project_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab010.test_mini_project_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab011.test_mini_project_4.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_Lab-flipkart.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_Lab001selenium.py.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/swapy/PycharmProjects/Py3xLearningSeleniumProgram/09072024&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/swapy/PycharmProjects/Py3xLearningSeleniumProgram/12082024&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\swapy\PycharmProjects\Py3xLearningSeleniumProgram\12082024" />
       <recent name="C:\Users\swapy\PycharmProjects\Py3xLearningSeleniumProgram\09072024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab008.test_mini_project_2">
-    <configuration name="Python tests for test_Lab005.test_open_youtube" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py3xLearningSeleniumProgram" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab005.test_open_youtube&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab006.test_open_vwo_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py3xLearningSeleniumProgram" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab006.test_open_vwo_login&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab007_p.test_mini_project_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py3xLearningSeleniumProgram" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab007_p.test_mini_project_1&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab007.test_open_vwlogin" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py3xLearningSeleniumProgram" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab007.test_open_vwlogin&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab011.test_mini_project_4">
     <configuration name="Python tests for test_Lab008.test_mini_project_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py3xLearningSeleniumProgram" />
       <option name="ENV_FILES" value="" />
@@ -142,13 +98,73 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab009.test_mini_project_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearningSeleniumProgram" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab009.test_mini_project_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab009.test_mini_project_3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearningSeleniumProgram" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab009.test_mini_project_3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab010.test_mini_project_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearningSeleniumProgram" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab010.test_mini_project_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab011.test_mini_project_4" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearningSeleniumProgram" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab011.test_mini_project_4&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab011.test_mini_project_4" />
+        <item itemvalue="Python tests.Python tests for test_Lab009.test_mini_project_3" />
+        <item itemvalue="Python tests.Python tests for test_Lab009.test_mini_project_1" />
+        <item itemvalue="Python tests.Python tests for test_Lab010.test_mini_project_2" />
         <item itemvalue="Python tests.Python tests for test_Lab008.test_mini_project_2" />
-        <item itemvalue="Python tests.Python tests for test_Lab007_p.test_mini_project_1" />
-        <item itemvalue="Python tests.Python tests for test_Lab007.test_open_vwlogin" />
-        <item itemvalue="Python tests.Python tests for test_Lab006.test_open_vwo_login" />
-        <item itemvalue="Python tests.Python tests for test_Lab005.test_open_youtube" />
       </list>
     </recent_temporary>
   </component>
@@ -192,8 +208,27 @@
       <option name="project" value="LOCAL" />
       <updated>1727950796155</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added om 031024">
+      <option name="closed" value="true" />
+      <created>1727951095192</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727951095192</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added om 100924" />
